@@ -74,7 +74,7 @@ public class DashboardFrame extends JFrame {
         JPanel contentPanel = new JPanel();
         contentPanel.setLayout(new BoxLayout(contentPanel, BoxLayout.Y_AXIS));
         contentPanel.setBorder(new CompoundBorder(
-                BorderFactory.createLineBorder(new Color(220, 220, 220), 1, true), // Softer border
+                BorderFactory.createLineBorder(new Color(220, 220, 220), 1, true),
                 new EmptyBorder(20, 20, 20, 20)
         ));
         contentPanel.setBackground(Color.WHITE);
