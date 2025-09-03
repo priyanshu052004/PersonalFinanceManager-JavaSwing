@@ -9,17 +9,16 @@ A **desktop application built with Java Swing** that helps users manage their pe
 - Add, edit, and delete income and expense transactions.
 - Categorize transactions (e.g., Food, Travel, Bills, Salary)  
 - View summary reports of income vs. expenses  
-- Data persistence using file storage (or database, if implemented)  
 - Simple budget tracking 
 - Lightweight and easy to run  
 
 ---
 
 ## 🛠️ Technologies Used
-- **Java (JDK 8+)**  
-- **Java Swing** (for GUI)  
-- **Collections Framework** (for managing transactions)  
-- **File I/O** (for saving data)  
+- Java (JDK 8+) 
+- Java Swing (for GUI)  
+- Collections Framework (for managing transactions)  
+- File I/O 
 
 ---
 
@@ -51,7 +50,16 @@ src/
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
+
+Here are some screenshots showcasing the UI of the application:
+
+| Screen                | Preview |
+|----------------------|---------|
+| Login Screen         | ![Login Screen](assets/screenshots/login.png) |
+| Dashboard            | ![Dashboard](assets/screenshots/dashboard.png) |
+| Add Transaction Form | ![Add Transaction](assets/screenshots/add-transaction.png) |
+| Report View          | ![Report View](assets/screenshots/report.png) |
 
 
 
